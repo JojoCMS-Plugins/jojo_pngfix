@@ -1,0 +1,1 @@
+Fixes the PNG transparency issue in IE5/6 using jQuery.
